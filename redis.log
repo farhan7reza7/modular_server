@@ -1,0 +1,124 @@
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T14:10:29.893Z"}
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T14:26:49.723Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T14:38:00.875Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T14:38:00.968Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:40:44.272Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:40:48.155Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:40:50.642Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:40:51.946Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T14:40:54.690Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T14:40:54.690Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T14:40:54.843Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T14:40:54.945Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T14:40:55.029Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:01.285Z"}
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T14:43:03.858Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:05.851Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T14:43:08.695Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T14:43:08.695Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T14:43:08.813Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T14:43:08.964Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T14:43:09.036Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:17.287Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:17.469Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:17.923Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:18.198Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T14:43:19.397Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T14:43:19.397Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T14:43:19.506Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T14:43:19.832Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T14:43:19.904Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T14:43:20.085Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T14:43:20.085Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T14:43:20.193Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T14:43:20.272Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T14:43:20.272Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T14:43:20.379Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T14:43:20.431Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T14:43:20.500Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T14:43:20.506Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T14:43:20.506Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T14:43:20.616Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T14:43:20.656Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T14:43:20.724Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T14:43:20.809Z"}
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T16:18:38.906Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T16:45:29.253Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T16:45:29.342Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T16:45:29.679Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T16:45:31.802Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T16:45:31.802Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T16:45:31.957Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T16:45:32.068Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T16:45:32.140Z"}
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T18:20:19.167Z"}
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T18:25:17.165Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:31:19.367Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:31:19.467Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:19.586Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:25.921Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:26.243Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T18:31:29.561Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T18:31:29.562Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T18:31:29.708Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:31:30.033Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:31:30.111Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:36.787Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:37.101Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:43.786Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:43.792Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:47.344Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:47.662Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:48.953Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:49.186Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:54.176Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:31:54.497Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T18:31:57.816Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T18:31:57.816Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T18:31:57.933Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T18:31:58.214Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T18:31:58.214Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:31:58.258Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:31:58.329Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T18:31:58.334Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:31:58.656Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:31:58.733Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:04.034Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:04.074Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:10.708Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:10.716Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:17.807Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:18.115Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:39.139Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:39.392Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:44.782Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:32:45.097Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:04.997Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:05.321Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:34.761Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:35.090Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:35.967Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:36.312Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:44.715Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:45.037Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:50.007Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:34:58.184Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T18:35:03.857Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T18:35:03.857Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T18:35:03.991Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:35:04.121Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:35:04.196Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:35:11.808Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:35:13.105Z"}
+{"level":"info","message":"Connected to Redis server","timestamp":"2024-07-07T18:46:52.310Z"}
+{"level":"info","message":"Cache hit!, Data: [object Object]","timestamp":"2024-07-07T18:51:27.450Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T18:51:32.776Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T18:51:32.776Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T18:51:32.911Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:51:33.243Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:51:33.330Z"}
+{"level":"info","message":"original url: /task","timestamp":"2024-07-07T18:51:34.821Z"}
+{"level":"info","message":"changed url: /tasks","timestamp":"2024-07-07T18:51:34.822Z"}
+{"level":"info","message":"deleted key: /tasks","timestamp":"2024-07-07T18:51:34.936Z"}
+{"level":"warn","message":"Cache miss","timestamp":"2024-07-07T18:51:35.263Z"}
+{"level":"info","message":"set key: /tasks","timestamp":"2024-07-07T18:51:35.339Z"}
