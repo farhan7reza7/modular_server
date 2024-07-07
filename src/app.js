@@ -62,5 +62,14 @@ async function deleter() {
   console.log("users: ", data);
 }
 //deleter();
+/*redis.flushall((err, result) => {
+  if (err) {
+    console.error("Error clearing Redis cache:", err);
+    redisLogger.error("Error clearing Redis cache:", err);
+  } else {
+    console.log("Redis cache cleared successfully:", result);
+    redisLogger.warn("Redis cache cleared successfully:", result);
+  }
+});*/
 
 module.exports = app;
